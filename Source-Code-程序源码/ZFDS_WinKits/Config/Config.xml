@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CategoryConfig>
+    <CategoryList>
+      <Category Name="文件处理" Sort="0">
+        <CategoryItemList>
+          <CategoryItem Sort="0" Name="文件批量改名改内容" AssemblyName="XCLNetFileReplace"></CategoryItem>
+        </CategoryItemList>
+      </Category>
+      <Category Name="文本处理" Sort="0">
+        <CategoryItemList>
+          <CategoryItem Sort="0" Name="正则表达式测试" AssemblyName="XCLRegexpTool"></CategoryItem>
+          <CategoryItem Sort="0" Name="HTML字符串转JS常量" AssemblyName="StringToJsConst"></CategoryItem>
+        </CategoryItemList>
+      </Category>
+      <Category Name="加密解密" Sort="0">
+        <CategoryItemList>
+          <CategoryItem Sort="0" Name="MD5加密" AssemblyName="MD5Tool"></CategoryItem>
+          <CategoryItem Sort="0" Name="其它加密解密" AssemblyName="CommonEncrypt"></CategoryItem>
+        </CategoryItemList>
+      </Category>
+      <Category Name="编码转换" Sort="0">
+        <CategoryItemList>
+          <CategoryItem Sort="0" Name="常用字符串编码转换" AssemblyName="CodingConvert"></CategoryItem>
+        </CategoryItemList>
+      </Category>
+      <Category Name="DBA数据大师" Sort="0">
+        <CategoryItemList>
+          <CategoryItem Sort="0" Name="让数据操作轻而易举-点此启动[Zoomla!逐浪DBA数据大师]" AssemblyName="DB2ExcelDX"></CategoryItem>
+        </CategoryItemList>
+      </Category>
+      <Category Name="时间与IP工具" Sort="0">
+        <CategoryItemList>
+          <CategoryItem Sort="0" Name="时间日期差" AssemblyName="DateTimeDIFF"></CategoryItem>
+          <CategoryItem Sort="0" Name="我的IP地址" AssemblyName="MyIP"></CategoryItem>
+        </CategoryItemList>
+      </Category>
+    </CategoryList>
+  </CategoryConfig>
+</Config>
